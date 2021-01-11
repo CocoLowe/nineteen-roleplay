@@ -1,0 +1,13 @@
+{
+    "cmd": [
+        "pawncc.exe", 
+        "$file", 
+        "-o$file_path/$file_base_name", 
+        "-;+", 
+        "-(+", 
+        "-d3"
+    ], 
+    "file_regex": "(.*?)\\(([0-9]*)[- 0-9]*\\)", 
+    "working_dir": "D:/Eolo/Nineteen'e ait oyun modlar\u0131 tarih tarih/12 2 19/zeex", 
+    "selector": "source.pwn"
+}
